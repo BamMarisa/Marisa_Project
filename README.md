@@ -1,6 +1,6 @@
 # Marisa_Project
-- Name: Marisa Pinkaew
 ![รูปภาพ](./my/Marisa.jpg)
+- Name: Marisa Pinkaew
   
 Matching pictures game
 https://bammarisa.github.io/web2566/
